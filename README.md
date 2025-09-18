@@ -6,7 +6,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
 
 </div>
-<h2>Linkedin profilim</h2>
+<h2>LinkedIn profilim</h2>
 <div id="badges">
   <a href="https://www.linkedin.com/in/arda-muratcan-t%C3%BCrke%C5%9F-78a017385/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
